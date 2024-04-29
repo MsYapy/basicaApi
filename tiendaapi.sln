@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiendaapi", "tiendaapi\tiendaapi.csproj", "{89748DE5-18D6-495A-BB68-6A93A9C74E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89748DE5-18D6-495A-BB68-6A93A9C74E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89748DE5-18D6-495A-BB68-6A93A9C74E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89748DE5-18D6-495A-BB68-6A93A9C74E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89748DE5-18D6-495A-BB68-6A93A9C74E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C7003B-53CD-4F43-AD50-4A419E9505C3}
+	EndGlobalSection
+EndGlobal
